@@ -5,4 +5,4 @@
  - Project built during the PROPROFISSÃO by Instituto PROA
 
 ## Access
- [Click to Open!](https://guirl-dev.github.io/Login-Landing-Page/)
+ [Click to Open!](https://guirl-dev.github.io/Bootstrap-Login-Page/)
